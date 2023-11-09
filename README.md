@@ -1,0 +1,1 @@
+![Alt Load Sensor Modules Board](https://github.com/earlcr/Load-Sensor-Modules-PCB/blob/main/images/load_sensor_modules_board_pcb.png)
